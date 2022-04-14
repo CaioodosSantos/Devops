@@ -1,10 +1,14 @@
 # Devops
 
-#comandos iniciais
+> comandos iniciais
 
 npm init -y
 npm install --dev jest
 npm run test
 #documentação
 
-https://jestjs.io/pt-BR/
+- https://jestjs.io/pt-BR/
+
+> comandos no json
+
+- jest --watchALL
